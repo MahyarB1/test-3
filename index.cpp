@@ -37,6 +37,7 @@ break;
 }
 
 string Max = to_string(x);
+//cout << Max;
 string Min = to_string(h);
 
 cout << Max + " " + Min;
